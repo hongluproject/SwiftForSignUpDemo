@@ -1,0 +1,16 @@
+.svn
+.svnignore
+*.svn_base
+
+*.xcuserdatad
+*.xcuserstate
+*.xcscheme
+*.xccheckout
+*.DS_Store
+*.perspective
+*.pbxuser
+DerivedData
+*.xcworkspacedata
+
+Pods
+Podfile.lock
